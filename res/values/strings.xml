@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+    <string name="app_name">Free SMS to India</string>
+    <string name="lbl_Number">Mobile Number:</string>
+    <string name="lbl_email">My email id</string>
+    <string name="lbl_Message">SMS Message</string>
+    <string name="lbl_Btn_Send">Send SMS</string>
+    <string name="Def_Mobil">9895712345</string>
+    <string name="Def_email">user@email.com</string>
+    <string name="Def_Message"></string>
+</resources>
